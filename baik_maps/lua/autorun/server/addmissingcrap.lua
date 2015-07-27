@@ -1,0 +1,6 @@
+resource.AddFile("materials/vgui/hud/gridblock.png")
+resource.AddFile("materials/vgui/hud/locationmarker.png")
+resource.AddFile("materials/vgui/hud/playermarker.png")
+resource.AddFile("materials/vgui/hud/mousemarker.png")
+resource.AddFile("materials/vgui/hud/battlemaps/devtexture.png")
+resource.AddFile("materials/vgui/hud/battlemaps/" .. game.GetMap() .. ".png")

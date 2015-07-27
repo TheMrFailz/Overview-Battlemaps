@@ -1,0 +1,12 @@
+{
+    "default_changelog": "-stuff",
+    "description": "It's a overview map!",
+    "logo": "C:/Users/Liam/Pictures/overviewbattlemap.jpg",
+    "tags": [
+        "realism",
+        "roleplay"
+    ],
+    "title": "Overview Battlemap",
+    "type": "tool",
+    "workshopid": 487474245
+}
